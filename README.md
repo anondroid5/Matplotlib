@@ -1,5 +1,5 @@
 # Matplotlib
-pylab は matplotlib のオブジェクト指向ライブラリに対する手続き的インターフェースを提供する
+pylabはmatplotlibのオブジェクト指向ライブラリに対する手続き的インターフェースを提供する
 
 
 # Environment
