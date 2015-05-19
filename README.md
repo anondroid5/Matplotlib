@@ -12,3 +12,5 @@ colorline.py - 線種、線色、マーカー変更
 line.py - 線種変更
 
 ###fig
+
+#Copyright
