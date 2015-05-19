@@ -5,3 +5,6 @@ pylabはmatplotlibのオブジェクト指向ライブラリに対する手続�
 # Environment
 python 2.7
 
+###fig
+
+###color
