@@ -14,3 +14,4 @@ line.py - 線種変更
 ###fig
 
 #Copyright
+PSF license
