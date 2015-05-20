@@ -63,5 +63,14 @@ fig11.py
 
 <img src="./Raw/images/fig11.png" width="200" alt="fig11">
 
+fig12.py
+
+<img src="./Raw/images/fig12.png" width="200" alt="fig12">
+
+fig13.py
+
+<img src="./Raw/images/fig13.png" width="200" alt="fig13">
+
+
 #Copyright
 PSF license
