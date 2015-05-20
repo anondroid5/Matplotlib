@@ -7,7 +7,7 @@ python 2.7
 ###color
 color.py - 線の色変更
 
-<img src="./Raw/images/color.png" width="300" alt="color">
+<img src="./Raw/images/color.png" width="200" alt="color">
 
 colorline.py - 線種、線色、マーカー変更
 
