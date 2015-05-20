@@ -83,6 +83,62 @@ fig16.py
 
 <img src="./Raw/images/fig16.png" width="200" alt="fig16">
 
+fig17.py
+
+<img src="./Raw/images/fig17.png" width="200" alt="fig17">
+
+fig18.py
+
+<img src="./Raw/images/fig18.png" width="200" alt="fig18">
+
+fig19.py
+
+<img src="./Raw/images/fig19.png" width="200" alt="fig19">
+
+fig20.py
+
+<img src="./Raw/images/fig20.png" width="200" alt="fig20">
+
+fig21.py
+
+<img src="./Raw/images/fig21.png" width="200" alt="fig21">
+
+fig22.py
+
+<img src="./Raw/images/fig22.png" width="200" alt="fig22">
+
+fig23.py
+
+<img src="./Raw/images/fig23.png" width="200" alt="fig23">
+
+fig24.py
+
+<img src="./Raw/images/fig24.png" width="200" alt="fig24">
+
+fig25.py
+
+<img src="./Raw/images/fig25.png" width="200" alt="fig25">
+
+fig26.py
+
+<img src="./Raw/images/fig26.png" width="200" alt="fig26">
+
+fig27.py
+
+<img src="./Raw/images/fig27.png" width="200" alt="fig27">
+
+fig28.py
+
+<img src="./Raw/images/fig28.png" width="200" alt="fig28">
+
+fig29.py
+
+<img src="./Raw/images/fig29.png" width="200" alt="fig29">
+
+fig30.py
+
+<img src="./Raw/images/fig30.png" width="200" alt="fig30">
+
 
 #Copyright
 PSF license
