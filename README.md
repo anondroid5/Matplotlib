@@ -71,9 +71,17 @@ fig13.py
 
 <img src="./Raw/images/fig13.png" width="200" alt="fig13">
 
-fig14.py
+fig14.py - debug
 
 <img src="./Raw/images/fig14.png" width="200" alt="fig14">
+
+fig15.py
+
+<img src="./Raw/images/fig15.png" width="200" alt="fig15">
+
+fig16.py
+
+<img src="./Raw/images/fig16.png" width="200" alt="fig16">
 
 
 #Copyright
