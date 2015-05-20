@@ -71,11 +71,11 @@ fig13.py
 
 <img src="./Raw/images/fig13.png" width="200" alt="fig13">
 
-fig14.py - debug
+fig14.py - プログラム修正中
 
 <img src="./Raw/images/fig14.png" width="200" alt="fig14">
 
-fig15.py
+fig15.py - プログラム修正中
 
 <img src="./Raw/images/fig15.png" width="200" alt="fig15">
 
