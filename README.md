@@ -71,6 +71,10 @@ fig13.py
 
 <img src="./Raw/images/fig13.png" width="200" alt="fig13">
 
+fig14.py
+
+<img src="./Raw/images/fig14.png" width="200" alt="fig14">
+
 
 #Copyright
 PSF license
