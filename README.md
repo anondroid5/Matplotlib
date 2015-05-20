@@ -155,7 +155,7 @@ fig33.py
 
 <img src="./Raw/images/fig33.png" width="200" alt="fig33">
 
-fig34.py
+fig34.py - プログラム修正中
 
 <img src="./Raw/images/fig34.png" width="200" alt="fig34">
 
@@ -175,7 +175,7 @@ fig38.py
 
 <img src="./Raw/images/fig38.png" width="200" alt="fig38">
 
-fig39.py
+fig39.py - プログラム修正中
 
 <img src="./Raw/images/fig39.png" width="200" alt="fig39">
 
