@@ -51,5 +51,9 @@ fig08.py
 
 <img src="./Raw/images/fig08.png" width="200" alt="fig08">
 
+fig09.py
+
+<img src="./Raw/images/fig09.png" width="200" alt="fig09">
+
 #Copyright
 PSF license
