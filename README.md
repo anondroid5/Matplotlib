@@ -27,6 +27,11 @@ fig02.py
 
 <img src="./Raw/images/fig02.png" width="200" alt="fig02">
 
+fig03.py
+
+<img src="./Raw/images/fig03.png" width="200" alt="fig03">
+
+
 
 #Copyright
 PSF license
