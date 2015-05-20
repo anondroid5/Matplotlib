@@ -11,21 +11,21 @@ color.py - 線の色変更
 
 colorline.py - 線種、線色、マーカー変更
 
-<img src="./Raw/images/colorline.png" width="300" alt="colorline">
+<img src="./Raw/images/colorline.png" width="200" alt="colorline">
 
 line.py - 線種変更
 
-<img src="./Raw/images/line.png" width="300" alt="line">
+<img src="./Raw/images/line.png" width="200" alt="line">
 
 ###fig
 
 fig01.py
 
-<img src="./Raw/images/fig01.png" width="300" alt="fig01">
+<img src="./Raw/images/fig01.png" width="200" alt="fig01">
 
 fig02.py
 
-<img src="./Raw/images/fig02.png" width="300" alt="fig02">
+<img src="./Raw/images/fig02.png" width="200" alt="fig02">
 
 
 #Copyright
