@@ -167,7 +167,7 @@ fig36.py
 
 <img src="./Raw/images/fig36.png" width="200" alt="fig36">
 
-fig37.py
+fig37.py - プログラム修正中
 
 <img src="./Raw/images/fig37.png" width="200" alt="fig37">
 
