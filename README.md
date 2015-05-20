@@ -91,7 +91,7 @@ fig18.py
 
 <img src="./Raw/images/fig18.png" width="200" alt="fig18">
 
-fig19.py
+fig19.py - プログラム修正中
 
 <img src="./Raw/images/fig19.png" width="200" alt="fig19">
 
