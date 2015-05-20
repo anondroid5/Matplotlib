@@ -21,7 +21,12 @@ line.py - 線種変更
 
 fig01.py
 
-<img src="./Raw/images/fig01.png" width="300" alt="fog01">
+<img src="./Raw/images/fig01.png" width="300" alt="fig01">
+
+fig02.py
+
+<img src="./Raw/images/fig02.png" width="300" alt="fig02">
+
 
 #Copyright
 PSF license
