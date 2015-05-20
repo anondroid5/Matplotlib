@@ -1,5 +1,5 @@
 # Matplotlib
-pylabはmatplotlibのオブジェクト指向ライブラリに対する手続き的インターフェースを提供
+pylabはmatplotlibのオブジェクト指向ライブラリに対する手続き的インターフェース
 
 # Environment
 python 2.7
@@ -38,6 +38,14 @@ fig04.py
 fig05.py
 
 <img src="./Raw/images/fig05.png" width="200" alt="fig05">
+
+fig06.py
+
+<img src="./Raw/images/fig06.png" width="200" alt="fig06">
+
+fig07.py
+
+<img src="./Raw/images/fig07.png" width="200" alt="fig07">
 
 #Copyright
 PSF license
