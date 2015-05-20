@@ -1,3 +1,4 @@
+# coding: utf-8
 from pylab import *
 
 x = arange(-20, 20, 0.3)
