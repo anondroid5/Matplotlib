@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 matplotlib gives you 4 ways to specify colors,
 

@@ -1,5 +1,4 @@
 # coding:utf-8
-
 from pylab import *
 
 axes(axisbg="#777777") # 背景を灰色に.

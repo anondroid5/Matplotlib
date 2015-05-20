@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 # a polar scatter plot; size increases radially in this example and
 # color increases with angle (just to verify the symbols are being
 # scattered correctlu).  In a real example, this would be wasting

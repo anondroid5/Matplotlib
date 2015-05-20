@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+# coding:utf-8
 """
 You can precisely specify dashes with an on/off ink rect sequence in
 points.

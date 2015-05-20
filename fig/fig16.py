@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 To create plots that share a common axes (visually) you can set the
 hspace bewtween the subplots close to zero (do not use zero itself).

@@ -1,3 +1,4 @@
+# coding:utf-8
 """
 You can share the x or y axis limits for one axis with another by
 passing an axes instance as a sharex or sharey kwarg.

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 
 This example shows how to use matplotlib to provide a data cursor.  It

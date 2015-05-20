@@ -1,4 +1,4 @@
-#!/bin/env python
+# coding:utf-8
 '''
 Plot lines with points masked out.
 

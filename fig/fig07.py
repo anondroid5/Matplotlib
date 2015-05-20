@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 # a bar plot with errorbars
 from pylab import *
 

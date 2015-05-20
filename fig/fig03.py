@@ -1,5 +1,4 @@
 # coding:utf-8
-
 import random
 import dateutil.parser as parser
 import matplotlib.pyplot as plt

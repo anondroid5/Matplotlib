@@ -1,3 +1,4 @@
+# coding:utf-8
 '''
 Demonstration of quiver and quiverkey functions. This is using the
 new version coming from the code in quiver.py.

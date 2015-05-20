@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 
 In order to use mathtext, you must build matplotlib.ft2font.  This is

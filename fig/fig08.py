@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 # make a horizontal bar chart
 
 from pylab import *

@@ -1,3 +1,4 @@
+# coding:utf-8
 from pylab import figure, show, nx, linspace, stineman_interp
 x = linspace(0,2*nx.pi,20);
 y = nx.sin(x); yp = None

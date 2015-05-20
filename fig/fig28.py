@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 Set the major ticks on the ints and minor ticks on multiples of 0.2
 """

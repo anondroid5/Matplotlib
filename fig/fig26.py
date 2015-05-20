@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 Layer images above one another using alpha blending
 """

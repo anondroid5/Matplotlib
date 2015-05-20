@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+# coding:utf-8
 from pylab import *
 
 # create some data to use for the plot

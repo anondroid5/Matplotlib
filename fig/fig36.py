@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 from pylab import *
 
 x = linspace(0.1, 2*pi, 10)

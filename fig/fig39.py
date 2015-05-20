@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 from pylab import *
 from matplotlib.numerix import sin, exp, multiply, absolute, pi
 from matplotlib.numerix.random_array import normal

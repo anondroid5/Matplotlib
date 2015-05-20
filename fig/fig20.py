@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 from pylab import *
 
 delta = 0.025

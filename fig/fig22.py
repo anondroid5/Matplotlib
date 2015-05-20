@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+# coding:utf-8
 # implement the example graphs/integral from pyx
 from pylab import *
 from matplotlib.patches import Polygon

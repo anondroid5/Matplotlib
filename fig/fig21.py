@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 from matplotlib.font_manager import FontProperties
 from pylab import *
 

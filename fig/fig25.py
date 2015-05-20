@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 
 You can use decreasing axes by flipping the normal order of the axis

@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+# coding:utf-8
 from pylab import *
 
 x1 = arange(0, 2, 0.01)

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 from pylab import *
 
 t = arange(0.0, 3.0, 0.05)

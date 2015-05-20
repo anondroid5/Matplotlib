@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# coding:utf-8
 """
 See pcolor_demo2 for an alternative way of generating pcolor plots
 using imshow that is likely faster for large grids
