@@ -103,7 +103,7 @@ fig21.py
 
 <img src="./Raw/images/fig21.png" width="200" alt="fig21">
 
-fig22.py
+fig22.py - プログラム修正中
 
 <img src="./Raw/images/fig22.png" width="200" alt="fig22">
 
