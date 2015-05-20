@@ -11,6 +11,8 @@ color.py - 線の色変更
 
 colorline.py - 線種、線色、マーカー変更
 
+<img src="./Raw/images/colorline.png" width="400" alc="colorline">
+
 line.py - 線種変更
 
 ###fig
