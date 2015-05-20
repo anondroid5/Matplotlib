@@ -13,5 +13,7 @@ line.py - 線種変更
 
 ###fig
 
+![fig01](./Raw/images/fig01.png)
+
 #Copyright
 PSF license
