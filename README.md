@@ -31,6 +31,9 @@ fig03.py
 
 <img src="./Raw/images/fig03.png" width="200" alt="fig03">
 
+fig04.py
+
+<img src="./Raw/images/fig04.png" width="200" alt="fig04">
 
 
 #Copyright
