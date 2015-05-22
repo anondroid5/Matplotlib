@@ -8,14 +8,13 @@ download following file.
 
 http://peak.telecommunity.com/dist/ez_setup.py
 
+easy_install SET UP
+
 ```
 python ez_setup.py
 ```
 
-```
-easy_install pip
-```
-
+PIP INSTALL
 
 ```
 easy_install pip
