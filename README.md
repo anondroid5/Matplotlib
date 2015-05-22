@@ -5,6 +5,7 @@ pylabはmatplotlibのオブジェクト指向ライブラリに対する手続�
 python 2.7
 
 download following file.
+
 http://peak.telecommunity.com/dist/ez_setup.py
 
 ```
