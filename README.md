@@ -8,7 +8,7 @@ download following file.
 
 http://peak.telecommunity.com/dist/ez_setup.py
 
-```
+```python
 python ez_setup.py
 ```
 
