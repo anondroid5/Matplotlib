@@ -4,6 +4,39 @@ pylabはmatplotlibのオブジェクト指向ライブラリに対する手続�
 # Environment
 python 2.7
 
+download following file.
+http://peak.telecommunity.com/dist/ez_setup.py
+
+```
+python ez_setup.py
+```
+
+```
+easy_install pip
+```
+
+
+```
+easy_install pip
+```
+
+```
+pip install ipython
+```
+
+```
+easy_install readline
+```
+
+```
+pip install numpy
+```
+
+```
+pip install matplotlib
+```
+
+
 ###color
 color.py - 線の色変更
 
