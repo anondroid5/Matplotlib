@@ -20,7 +20,7 @@ PIP INSTALL
 easy_install pip
 ```
 
-important library INSTALL
+Important Libraries INSTALL
 
 ```
 pip install ipython
