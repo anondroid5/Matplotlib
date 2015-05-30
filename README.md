@@ -130,7 +130,7 @@ fig19.py - プログラム修正中
 
 <img src="./Raw/images/fig19.png" width="200" alt="fig19">
 
-fig20.py
+fig20.py - 濃淡画像を描画
 
 <img src="./Raw/images/fig20.png" width="200" alt="fig20">
 
