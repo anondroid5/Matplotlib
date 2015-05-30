@@ -214,7 +214,7 @@ fig39.py - プログラム修正中
 
 <img src="./Raw/images/fig39.png" width="200" alt="fig39">
 
-fig40.py
+fig40.py - 描画する順番を入れ替える
 
 <img src="./Raw/images/fig40_1.png" width="200" alt="fig40_1">
 <img src="./Raw/images/fig40_2.png" width="200" alt="fig40_2">
