@@ -150,7 +150,7 @@ fig24.py - プログラム修正中
 
 <img src="./Raw/images/fig24.png" width="200" alt="fig24">
 
-fig25.py
+fig25.py - 軸の増加方向を反転
 
 <img src="./Raw/images/fig25.png" width="200" alt="fig25">
 
