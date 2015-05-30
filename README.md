@@ -186,7 +186,7 @@ fig32.py - ベクトル場を描画
 <img src="./Raw/images/fig32_4.png" width="200" alt="fig32_4">
 <img src="./Raw/images/fig32_5.png" width="200" alt="fig32_5">
 
-fig33.py
+fig33.py - 散布図を描画
 
 <img src="./Raw/images/fig33.png" width="200" alt="fig33">
 
