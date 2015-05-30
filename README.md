@@ -198,7 +198,7 @@ fig35.py - 2次元パワースペクトルを描画
 
 <img src="./Raw/images/fig35.png" width="200" alt="fig35">
 
-fig36.py
+fig36.py - Y方向の残差を描画
 
 <img src="./Raw/images/fig36.png" width="200" alt="fig36">
 
