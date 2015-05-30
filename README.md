@@ -178,7 +178,7 @@ fig31.py - 極座標系で描画
 
 <img src="./Raw/images/fig31.png" width="200" alt="fig31">
 
-fig32.py
+fig32.py - ベクトル場を描画
 
 <img src="./Raw/images/fig32_1.png" width="200" alt="fig32_1">
 <img src="./Raw/images/fig32_2.png" width="200" alt="fig32_2">
