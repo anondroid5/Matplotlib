@@ -134,7 +134,7 @@ fig20.py - 濃淡画像を描画
 
 <img src="./Raw/images/fig20.png" width="200" alt="fig20">
 
-fig21.py
+fig21.py - 長いタイトルを描画
 
 <img src="./Raw/images/fig21.png" width="200" alt="fig21">
 
