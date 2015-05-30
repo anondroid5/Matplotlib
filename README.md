@@ -78,7 +78,7 @@ fig06.py - 円でグラフを描画
 
 <img src="./Raw/images/fig06.png" width="200" alt="fig06">
 
-fig07.py
+fig07.py - 棒グラフを表示
 
 <img src="./Raw/images/fig07.png" width="200" alt="fig07">
 
