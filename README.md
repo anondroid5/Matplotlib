@@ -86,7 +86,7 @@ fig08.py - 横棒グラフを表示
 
 <img src="./Raw/images/fig08.png" width="200" alt="fig08">
 
-fig09.py
+fig09.py - 色を変更
 
 <img src="./Raw/images/fig09.png" width="200" alt="fig09">
 
