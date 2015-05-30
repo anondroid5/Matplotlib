@@ -114,11 +114,11 @@ fig15.py - プログラム修正中
 
 <img src="./Raw/images/fig15.png" width="200" alt="fig15">
 
-fig16.py - 1軸共通のグラフを重ねて描く
+fig16.py - 1軸共通のグラフを重ねて描画
 
 <img src="./Raw/images/fig16.png" width="200" alt="fig16">
 
-fig17.py - 1軸共有したグラフを描く
+fig17.py - 1軸共有したグラフを描画
 
 <img src="./Raw/images/fig17.png" width="200" alt="fig17">
 
