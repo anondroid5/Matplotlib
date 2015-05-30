@@ -102,7 +102,7 @@ fig12.py - いろいろな線を描画
 
 <img src="./Raw/images/fig12.png" width="200" alt="fig12">
 
-fig13.py
+fig13.py - 領域を塗りつぶす
 
 <img src="./Raw/images/fig13.png" width="200" alt="fig13">
 
