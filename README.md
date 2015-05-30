@@ -158,7 +158,7 @@ fig26.py - 画像を重ねて描画
 
 <img src="./Raw/images/fig26.png" width="200" alt="fig26">
 
-fig27.py
+fig27.py - 対数グラフを描画
 
 <img src="./Raw/images/fig27.png" width="200" alt="fig27">
 
