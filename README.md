@@ -174,7 +174,7 @@ fig30.py - 密度プロットを描画
 
 <img src="./Raw/images/fig30.png" width="200" alt="fig30">
 
-fig31.py
+fig31.py - 極座標系で描画
 
 <img src="./Raw/images/fig31.png" width="200" alt="fig31">
 
