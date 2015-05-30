@@ -78,11 +78,11 @@ fig06.py - 円でグラフを描画
 
 <img src="./Raw/images/fig06.png" width="200" alt="fig06">
 
-fig07.py - 棒グラフを表示
+fig07.py - 縦棒グラフを表示
 
 <img src="./Raw/images/fig07.png" width="200" alt="fig07">
 
-fig08.py
+fig08.py - 横棒グラフを表示
 
 <img src="./Raw/images/fig08.png" width="200" alt="fig08">
 
