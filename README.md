@@ -122,7 +122,7 @@ fig17.py - 1軸共有したグラフを描画
 
 <img src="./Raw/images/fig17.png" width="200" alt="fig17">
 
-fig18.py
+fig18.py - ヒストグラムを描画
 
 <img src="./Raw/images/fig18.png" width="200" alt="fig18">
 
