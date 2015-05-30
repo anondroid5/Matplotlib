@@ -90,7 +90,7 @@ fig09.py - 色を変更
 
 <img src="./Raw/images/fig09.png" width="200" alt="fig09">
 
-fig10.py
+fig10.py - カーソルを置いた場所の値を表示
 
 <img src="./Raw/images/fig10.png" width="200" alt="fig10">
 
