@@ -206,7 +206,7 @@ fig37.py - プログラム修正中
 
 <img src="./Raw/images/fig37.png" width="200" alt="fig37">
 
-fig38.py
+fig38.py - 2つの軸をもつグラフを描画
 
 <img src="./Raw/images/fig38.png" width="200" alt="fig38">
 
