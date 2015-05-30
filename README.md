@@ -154,7 +154,7 @@ fig25.py - 軸の増加方向を反転
 
 <img src="./Raw/images/fig25.png" width="200" alt="fig25">
 
-fig26.py
+fig26.py - 画像を重ねて描画
 
 <img src="./Raw/images/fig26.png" width="200" alt="fig26">
 
