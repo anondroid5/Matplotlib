@@ -194,7 +194,7 @@ fig34.py - プログラム修正中
 
 <img src="./Raw/images/fig34.png" width="200" alt="fig34">
 
-fig35.py
+fig35.py - 2次元パワースペクトルを描画
 
 <img src="./Raw/images/fig35.png" width="200" alt="fig35">
 
