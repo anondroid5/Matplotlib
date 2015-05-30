@@ -162,7 +162,7 @@ fig27.py - 対数グラフを描画
 
 <img src="./Raw/images/fig27.png" width="200" alt="fig27">
 
-fig28.py
+fig28.py - 目盛りを描画
 
 <img src="./Raw/images/fig28.png" width="200" alt="fig28">
 
