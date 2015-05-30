@@ -70,7 +70,7 @@ fig04.py
 
 <img src="./Raw/images/fig04.png" width="200" alt="fig04">
 
-fig05.py
+fig05.py - 簡単な2Dグラフを描画
 
 <img src="./Raw/images/fig05.png" width="200" alt="fig05">
 
