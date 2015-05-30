@@ -74,7 +74,7 @@ fig05.py - 簡単な2Dグラフを描画
 
 <img src="./Raw/images/fig05.png" width="200" alt="fig05">
 
-fig06.py
+fig06.py - 円でグラフを描画
 
 <img src="./Raw/images/fig06.png" width="200" alt="fig06">
 
