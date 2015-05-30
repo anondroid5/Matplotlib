@@ -94,7 +94,7 @@ fig10.py - カーソルを置いた場所の値を表示
 
 <img src="./Raw/images/fig10.png" width="200" alt="fig10">
 
-fig11.py
+fig11.py - 点線を描画
 
 <img src="./Raw/images/fig11.png" width="200" alt="fig11">
 
