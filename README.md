@@ -166,11 +166,11 @@ fig28.py - 目盛りを描画
 
 <img src="./Raw/images/fig28.png" width="200" alt="fig28">
 
-fig29.py
+fig29.py - プログラム修正中
 
 <img src="./Raw/images/fig29.png" width="200" alt="fig29">
 
-fig30.py
+fig30.py - 密度プロットを描画
 
 <img src="./Raw/images/fig30.png" width="200" alt="fig30">
 
