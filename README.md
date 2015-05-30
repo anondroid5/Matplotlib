@@ -142,7 +142,7 @@ fig22.py - プログラム修正中
 
 <img src="./Raw/images/fig22.png" width="200" alt="fig22">
 
-fig23.py
+fig23.py - 数式を入力
 
 <img src="./Raw/images/fig23.png" width="200" alt="fig23">
 
