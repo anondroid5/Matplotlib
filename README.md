@@ -118,7 +118,7 @@ fig16.py - 1軸共通のグラフを重ねて描く
 
 <img src="./Raw/images/fig16.png" width="200" alt="fig16">
 
-fig17.py
+fig17.py - 1軸共有したグラフを描く
 
 <img src="./Raw/images/fig17.png" width="200" alt="fig17">
 
