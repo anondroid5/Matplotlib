@@ -1,8 +1,10 @@
 # Matplotlib
+[![Language](http://img.shields.io/badge/language-python-orange.svg?style=flat)](https://www.python.org)
+[![Version](https://img.shields.io/badge/version-v2.x-blue.svg?style=flat)](https://www.python.org/doc/)
+
 pylabはmatplotlibのオブジェクト指向ライブラリに対する手続き的インターフェース
 
 # Environment
-python 2.7
 
 download following file.
 
