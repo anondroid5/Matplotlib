@@ -1,6 +1,6 @@
 # Matplotlib
-[![Language](http://img.shields.io/badge/language-python-orange.svg?style=flat)](https://www.python.org)
-[![Version](https://img.shields.io/badge/version-v2.x-blue.svg?style=flat)](https://www.python.org/doc/)
+
+python 2.x
 
 pylabはmatplotlibのオブジェクト指向ライブラリに対する手続き的インターフェース
 
